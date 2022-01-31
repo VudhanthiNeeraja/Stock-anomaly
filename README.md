@@ -17,4 +17,23 @@ Time series analysis is a specific way of analyzing a sequence of data points co
 
 Time series analysis typically requires a large number of data points to ensure consistency and reliability. An extensive data set ensures you have a representative sample size and that analysis can cut through noisy data. It also ensures that any trends or patterns discovered are not outliers and can account for seasonal variance. Additionally, time series data can be used for forecasting—predicting future data based on historical data.
 
+### Applying Time Series on Stock.
+
+To start of with our project we firstly have to create and deploy our AZURE SERVICE i.e the Anomaly Detector.
+
+## CREATING AND DEPLOYING AZURE SERVICES (ANOMALY DETECTOR):
+
+Step 1: Visit the Microsoft AZURE website and sign up.
+
+Step 2: After signing up you should find the below page loaded.
+
+![image](https://user-images.githubusercontent.com/63281063/151813635-56883f8f-80fb-4dc9-a79f-70a57c49f5dc.png)
+
+Step 3: Click on the search area and search for ANOMALY DETECTORS and select it.
+
+![image](https://user-images.githubusercontent.com/63281063/151813846-ed895be9-8e85-4ced-b7e1-d727d6a2e837.png)
+
+Step 4: After selecting Anomaly Detectors you should find the below page loaded.
+
+![image](https://user-images.githubusercontent.com/63281063/151814140-ef7154fa-ff4a-452b-b38e-37dffd4f4164.png)
 
