@@ -37,3 +37,18 @@ Step 4: After selecting Anomaly Detectors you should find the below page loaded.
 
 ![image](https://user-images.githubusercontent.com/63281063/151814140-ef7154fa-ff4a-452b-b38e-37dffd4f4164.png)
 
+Step 5: Now click on create and create and deploy the ANOMALY DETECTOR. After filing all the details click on REVIEW+CREATE.
+
+![image](https://user-images.githubusercontent.com/63281063/151814770-bfa7aa0f-0cbe-47d7-8d34-eea0dcac005d.png)
+
+Step 6: After deploying we can find the below page loaded with the anomaly detector loaded in the overview.
+
+![image](https://user-images.githubusercontent.com/63281063/151815206-3a054895-5c93-4392-889e-654e6a6f3854.png)
+
+Step 7: Click on the created ANOMALY DETECTOR and we can find the below page loaded. We can find the necessary "END POINT" and "API KEYS" (in manage keys).
+
+![image](https://user-images.githubusercontent.com/63281063/151815392-ea5dbe9b-acc4-43a5-94d7-fe7a9d27663e.png)
+
+![image](https://user-images.githubusercontent.com/63281063/151815666-d21bdf8a-9b12-4732-ad94-a9bfe5ff2f74.png)
+
+Thus the AZURE SERVICE is created and deployed successfully.
