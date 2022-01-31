@@ -52,3 +52,24 @@ Step 7: Click on the created ANOMALY DETECTOR and we can find the below page loa
 ![image](https://user-images.githubusercontent.com/63281063/151815666-d21bdf8a-9b12-4732-ad94-a9bfe5ff2f74.png)
 
 Thus the AZURE SERVICE is created and deployed successfully.
+
+## INTEGRATING THE PYTHON CODE AND ANOMALY DETECTOR FOR STOCK ANOMALY DETECTION:
+
+Step 1: Copy the API Key and the Endpoint from the ANOMALY DETECTOR that has been created and create the variables such as subscription_key and endpoint to use them in the code and to use these for integrating the detector to the python code.
+
+![image](https://user-images.githubusercontent.com/63281063/151817335-d4aa5e3d-55e8-430a-960a-bcd6cfb75d5e.png)
+
+Step 2: Write the code for the "detect" and the "build_figure" function which uses the API Key and the endpoint to detect the enomalies (uses detect function) and plots the graph as output indicating the boundaries, expected values, values and the anomalies predicted.
+
+![image](https://user-images.githubusercontent.com/63281063/151817448-a9ccbd5b-e956-49fe-ad0b-da7393fa7480.png)
+
+### STOCK PLOT OF THE NON-ANOMALOUS DATA:
+
+![image](https://user-images.githubusercontent.com/63281063/151818405-7c841cec-fb24-45e4-927d-32479647f597.png)
+
+### STOCK PLOT OF THE ANOMALOUS DATA IDENTIFIED BY THE ANOMALY DETECTOR INTEGRATED IN THE PYTHON CODE:
+
+![image](https://user-images.githubusercontent.com/63281063/151818660-41127acd-c34d-4583-be19-18c96ad5b728.png)
+The above figure shows the anomaly detected (indicated in red circles).
+
+Thus, the anomalies are detected in the stock data using the AZURE ANOMALY DETECTOR integrated in the python code using the time-series analysis.
