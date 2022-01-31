@@ -7,3 +7,10 @@ Anomalous traffic patterns in a Network.
 ![image](https://user-images.githubusercontent.com/63281063/151808940-b5d0daed-e203-4292-b746-d75c71dd36f4.png)
 
 Anomalous MRI image.
+
+![image](https://user-images.githubusercontent.com/63281063/151809228-8bd15cf6-d045-4c7c-be99-abd96d78580e.png)
+
+Anomalous Stock.
+
+Time series analysis is a specific way of analyzing a sequence of data points collected over an interval of time. In time series analysis, analysts record data points at consistent intervals over a set period of time rather than just recording the data points intermittently or randomly. However, this type of analysis is not merely the act of collecting data over time. What sets time series data apart from other data is that the analysis can show how variables change over time. In other words, time is a crucial variable because it shows how the data adjusts over the course of the data points as well as the final results. It provides an additional source of information and a set order of dependencies between the data. 
+Time series analysis typically requires a large number of data points to ensure consistency and reliability. An extensive data set ensures you have a representative sample size and that analysis can cut through noisy data. It also ensures that any trends or patterns discovered are not outliers and can account for seasonal variance. Additionally, time series data can be used for forecasting—predicting future data based on historical data.
