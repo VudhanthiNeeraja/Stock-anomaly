@@ -20,6 +20,32 @@ Time series analysis typically requires a large number of data points to ensure 
 
 ## Applying Time Series on Stock:
 
+## ANOMALY DETECTOR: 
+
+The anomaly detector has the following characteristics which play a crucial role in our project.
+
+### 1. Powerful inference engine: 
+
+It assesses our time-series dataset and automatically selects the right anomaly detection algorithm to maximize accuracy for our scenario.
+
+### 2. Automatic detection: 
+
+It eliminates the need for labeled training data to help us save time and stay focused on fixing problems as soon as they surface.
+
+### 3. Customizable settings 
+
+Let's us fine-tune sensitivity to potential anomalies based on the risk profile of our business.
+
+### Detection of the anomalies in the stock using anomaly detector is shown in the below figure
+
+![image](https://user-images.githubusercontent.com/63281063/151932040-08dcd606-0f29-484a-bf7b-06d373fa6150.png)
+
+### USE OF AZURE ANOMALY DETECTOR IN OUR CODE: 
+
+Anomaly Detector ingests time-series data of all types and selects the best anomaly detection algorithm for the data to ensure high accuracy. 
+
+Detect spikes, dips, deviations from cyclic patterns, and trend changes through univariate API's in our project code.
+
 To start of with our project we firstly have to create and deploy our AZURE SERVICE i.e the Anomaly Detector.
 
 ## CREATING AND DEPLOYING AZURE SERVICES (ANOMALY DETECTOR):
