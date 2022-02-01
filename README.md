@@ -84,8 +84,6 @@ Thus the AZURE SERVICE is created and deployed successfully.
 
 Step 1: Copy the API Key and the Endpoint from the ANOMALY DETECTOR that has been created and create the variables such as subscription_key and endpoint to use them in the code and to use these for integrating the detector to the python code.
 
-![image](https://user-images.githubusercontent.com/63281063/151817335-d4aa5e3d-55e8-430a-960a-bcd6cfb75d5e.png)
-
 Step 2: Write the code for the "detect" and the "build_figure" function which uses the API Key and the endpoint to detect the enomalies (uses detect function) and plots the graph as output indicating the boundaries, expected values, values and the anomalies predicted.
 
 ![image](https://user-images.githubusercontent.com/63281063/151817448-a9ccbd5b-e956-49fe-ad0b-da7393fa7480.png)
